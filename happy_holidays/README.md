@@ -21,6 +21,7 @@ ____
 `ruby tree.rb`
 
 ```bash
+$ cat happy-holidays.txt
 ───────┬──────────────────────────
        │ File: happy-holidays.txt
 ───────┼──────────────────────────
